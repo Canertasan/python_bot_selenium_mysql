@@ -1,0 +1,39 @@
+mysql://
+bd1d7d55ca4370
+:
+e51b2bc8
+@
+us-cdbr-east-04.cleardb.com
+/heroku_15dfd0ea68e2252?reconnect=true
+
+
+CREATE TABLE IF NOT EXISTS heroku_15dfd0ea68e2252.users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_name VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS heroku_15dfd0ea68e2252.products (
+    product_id INT AUTO_INCREMENT PRIMARY KEY,
+    binance_product_id INT,
+    user_id INT,
+    quantity decimal(6,3),
+    response varchar(1000),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES heroku_15dfd0ea68e2252.users(user_id)
+);
+
+CREATE TABLE IF NOT EXISTS heroku_15dfd0ea68e2252.logs (
+    log_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    ip_address VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES heroku_15dfd0ea68e2252.users(user_id)
+);
+
+
+#adding new users
+INSERT INTO heroku_15dfd0ea68e2252.users (user_name, password, created_at)
+VALUES ("canertasann", "159753Caner.", NOW());
+

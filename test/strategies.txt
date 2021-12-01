@@ -1,0 +1,5 @@
+13:59:56:80 + 3ms delay between the request 1000
+
+13:59:59:00 all the way down request  1000
+
+13:59:59:00 all the way down request  3000-5000

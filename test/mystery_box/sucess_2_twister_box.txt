@@ -1,0 +1,999 @@
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000004","message":"Hizmet aşırı yüklü durumda. Lütfen daha sonra tekrar deneyin.","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000004","message":"Hizmet aşırı yüklü durumda. Lütfen daha sonra tekrar deneyin.","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000000","message":null,"messageDetail":null,"data":{"orderId":"161773693042296832"},"success":true}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000000","message":null,"messageDetail":null,"data":{"orderId":"161773697022691328"},"success":true}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+blocked
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+blocked
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"1002100003","message":"Stokta yok","messageDetail":{"title":null,"type":null,"icon":null,"action":null,"linkTitle":null,"linkUrl":null},"data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}
+{"code":"000003","message":"this request has trigger rate limiter.","data":null,"success":false}

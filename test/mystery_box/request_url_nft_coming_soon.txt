@@ -1,0 +1,206 @@
+#ORDER_CREATE
+Request URL: https://www.binance.com/bapi/nft/v1/private/nft/nft-trade/order-create
+Request Method: POST
+Status Code: 200 
+Remote Address: 52.84.109.98:443
+Referrer Policy: origin-when-cross-origin
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.binance.com
+cache-control: no-cache, no-store, must-revalidate
+content-encoding: gzip
+content-type: application/json;charset=UTF-8
+date: Sun, 28 Nov 2021 15:20:05 GMT
+expires: 0
+pragma: no-cache
+referrer-policy: origin-when-cross-origin
+server: Tengine
+strict-transport-security: max-age=31536000; includeSubdomains
+vary: Accept-Encoding
+vary: origin
+via: 1.1 tesla, 1.1 cc83cc27259d9c51b700240a5e4b94bd.cloudfront.net (CloudFront)
+x-amz-cf-id: q3hLtcb5E-GNnTwDCHK5wcj7WESji8yo6L8lt8CkNR7yzJfoU-j-kA==
+x-amz-cf-pop: BUD50-C1
+x-cache: Miss from cloudfront
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+:authority: www.binance.com
+:method: POST
+:path: /bapi/nft/v1/private/nft/nft-trade/order-create
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7,ko;q=0.6
+bnc-uuid: 06853475-b5f6-4eaf-a861-b2da9887a2fc
+clienttype: web
+content-length: 51
+content-type: application/json
+cookie: cid=A3XwmGn5; bnc-uuid=06853475-b5f6-4eaf-a861-b2da9887a2fc; __BINANCE_USER_DEVICE_ID__={"8cb0d27f111ec4b2bdd42a26f48ba303":{"date":1636564421077,"value":"1636564420978otaa4THIko8MJty4xhs"}}; _ga=GA1.2.1082683123.1638021158; _gid=GA1.2.1985697396.1638021158; source=referral; campaign=www.binance.com; home-ui-ab=A; nft-init-compliance=true; userPreferredCurrency=USD_USD; fiat-prefer-currency=TRY; help-center-ui-ab=A; BNC_FV_KEY=31dfdd6ec952a445aeb70eee51c68456053e3e26; BNC_FV_KEY_EXPIRE=1638192216062; monitor-uuid=0969e0f6-1349-4550-b049-ad4311f80395; gtId=011c1f43-0efd-40a6-a2ac-bfdb1f12fe63; cr00=6AA1274EA5AAF8BAB55A1450BF65F562; d1og=web.45819680.5EEABC36E1494A0DB850E0E6C52C02C1; r2o1=web.45819680.4B6EC35819DAC5382AA218C93E135DC8; f30l=web.45819680.1B078948FD3C690F00D66328F4FEF35C; logined=y; lang=tr; p20t=web.45819680.5EE11F7970BF6760C03C6CC3BA05B023; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2245819680%22%2C%22first_id%22%3A%2217d61ab55141224-08d9c6d83d35c-1f396452-1296000-17d61ab551516be%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E8%87%AA%E7%84%B6%E6%90%9C%E7%B4%A2%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%2C%22%24latest_referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22%24device_id%22%3A%2217d61ab55141224-08d9c6d83d35c-1f396452-1296000-17d61ab551516be%22%7D; _gat=1; _gat_UA-162512367-1=1
+csrftoken: b0eaf285d3347e5027a435f29746ecb8
+device-info: eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMCwxNDQwIiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiNzg5LDE0NDAiLCJzeXN0ZW1fdmVyc2lvbiI6Ik1hYyBPUyAxMC4xNS43IiwiYnJhbmRfbW9kZWwiOiJ1bmtub3duIiwic3lzdGVtX2xhbmciOiJ0ci1UUiIsInRpbWV6b25lIjoiR01UKzEiLCJ0aW1lem9uZU9mZnNldCI6LTYwLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC41NSBTYWZhcmkvNTM3LjM2IiwibGlzdF9wbHVnaW4iOiJQREYgVmlld2VyLENocm9tZSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIsTWljcm9zb2Z0IEVkZ2UgUERGIFZpZXdlcixXZWJLaXQgYnVpbHQtaW4gUERGIiwiY2FudmFzX2NvZGUiOiI0NWQzOGFhMyIsIndlYmdsX3ZlbmRvciI6IkFwcGxlIiwid2ViZ2xfcmVuZGVyZXIiOiJBcHBsZSBNMSIsImF1ZGlvIjoiMTI0LjA0MzQ0OTY4NDc1MTk4IiwicGxhdGZvcm0iOiJNYWNJbnRlbCIsIndlYl90aW1lem9uZSI6IkV1cm9wZS9CdWRhcGVzdCIsImRldmljZV9uYW1lIjoiQ2hyb21lIFY5Ni4wLjQ2NjQuNTUgKE1hYyBPUykiLCJmaW5nZXJwcmludCI6ImEwMGYxNWVkYjlkZDI5Y2Q0ZmUyN2Y5NjQ1YWI5ZDU3IiwiZGV2aWNlX2lkIjoiIiwicmVsYXRlZF9kZXZpY2VfaWRzIjoiMTYzNjU2NDQyMDk3OG90YWE0VEhJa284TUp0eTR4aHMifQ==
+fvideo-id: 31dfdd6ec952a445aeb70eee51c68456053e3e26
+lang: en
+origin: https://www.binance.com
+referer: https://www.binance.com/en/nft/goods/detail?productId=13886834&isProduct=1
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+x-nft-checkbot-sitekey: 6LeUPckbAAAAAIX0YxfqgiXvD3EOXSeuq0OpO8u_
+x-nft-checkbot-token: 03AGdBq27yafP3OPV6CV4rqPwcT8WzIayDzXpcUEGHz2AISGSUoYuNwE5xJJofvgIH0AiKGQ6t_-MMwCECejfC6jFxeC0AIbMehyxFjNvw_xAwWZbBwC6fAA1NVMM2svBoyPbFtojfpQVNIENTy-2UADpt4wRdKO5BJ_HQFDZcA9u6qp830N2VHPEJ_zL2I-7r9fjM1oJnMG7gU1ZogvXfcz7IY_n-Ogfmaa2ZwfMUokcaKXKM2JM24R9mL4cG5MYRKxNVSzPK4NNtuxqUxZA6sV8G4sZDCiFvfZy2OFyIZwicjKQfiWmB5jYKu6k8B4GTm9GBy5Olzvfrkfc34JyqMrqoq2sV6Qg8jDJ3IaSx7ZKX_WCk_qaYWU9ezglbpKd7ZySExhHwiwCg1kM4wUPc9H2MV_fK3sNo5DYxHNjOHT4mpBjSQJzZYbmj90fMYhGGTQdxhH8RWGm6bqsm8cyuKoHxfjHqHzYjn0s8AtlfRwektpnoTno-JvhkIhWH-0pNoZNZueNwseZl5SnWfSQ1c6_6x6bMqcuYO5UC9YiBo4KjULjoR2PphEzvINxxBpKg_mdJWk-W8LFC2fb4CWHA_6VdaBmyXof_mUHuT8EZ_Hj3leQiNUNeW5eexZhXOgqwlMUFDGywUtRNNN2-O4BYKOXoFAxKcyarXx2ZTMmb_-YPdQHfUfsErl7R_SoXYZZpi8V7qnu8JFdWCy8Hh6d47oG5VaoDgO8J35_hx3LS_WY18IZymbIlelxuROEjS1wvseau8Tn77soPvDD_pA227sCU2zWasSEMSSk5FC-4RYoctqTQ32BSGTGyjiU_bL9WaOc8tojMToDYb7ZnO0Q4KDY8ExqC8QVup5lUk3zKLKWwq4eoaRO1nOXanDbDhYdbfO3m6pJIRt9_kzl-H19f5ty8fj_KQF8dJUoVLO-T4p6hloINYPAIxPKvYzJeAAjXjnO4syXXRpHbtuKM9BYe5Tdi82kojAp02V-fGBupYG15LrfxNBZQw6PJ6u24hjcfCiqSfaZDFLIrLmgHQY6AvdR6ccnMcOjDpTW77RSzUqfcUIq9dqIwc2eJ_zXOrKjcDk4DMGi8Xl_ijOpOw0TiPv7N2ohHazJRKvwhJs7OtBWAX4z7n0ijk_DDunRjgFFdiMQaQFn1QsNFc4km-QNkQCC568IQ72uY3Udr5PcWivVD1b7ezl01R3wdhp3L-t2y2z8r1lhzPcNnIP1FheWHrGQHOB8eVabY07PDx7TEcCl-tbVUfY2Z3BbGn-zN2gUDvLn5sbawrn4wxOFPwt0Tp78_kZBmviPZTXYFJsMqHdLWqKxDrT9wC7dK0j-9hnDoJuEiETvDJ4eRWbgd6Lyqax_3FV356VI0IoxVNUYEWk2jFLuS_FLjX7M
+x-trace-id: a1e7cd14-fc36-44d4-b1d0-468a32a56fb8
+x-ui-request-trace: a1e7cd14-fc36-44d4-b1d0-468a32a56fb8
+
+
+
+
+#ORDER_QUERY
+Request URL: https://www.binance.com/bapi/nft/v1/private/nft/nft-trade/order-query
+Request Method: POST
+Status Code: 200 
+Remote Address: 52.84.109.98:443
+Referrer Policy: origin-when-cross-origin
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.binance.com
+cache-control: no-cache, no-store, must-revalidate
+content-encoding: gzip
+content-type: application/json;charset=UTF-8
+date: Sun, 28 Nov 2021 15:20:06 GMT
+expires: 0
+pragma: no-cache
+referrer-policy: origin-when-cross-origin
+server: Tengine
+strict-transport-security: max-age=31536000; includeSubdomains
+vary: Accept-Encoding
+vary: origin
+via: 1.1 tesla, 1.1 cc83cc27259d9c51b700240a5e4b94bd.cloudfront.net (CloudFront)
+x-amz-cf-id: tx6FSQR3keGYJaKuTfzGf-pzPEXc_0ijIDvQGUzkK4ASygjPStMnJA==
+x-amz-cf-pop: BUD50-C1
+x-cache: Miss from cloudfront
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+:authority: www.binance.com
+:method: POST
+:path: /bapi/nft/v1/private/nft/nft-trade/order-query
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7,ko;q=0.6
+bnc-uuid: 06853475-b5f6-4eaf-a861-b2da9887a2fc
+clienttype: web
+content-length: 46
+content-type: application/json
+cookie: cid=A3XwmGn5; bnc-uuid=06853475-b5f6-4eaf-a861-b2da9887a2fc; __BINANCE_USER_DEVICE_ID__={"8cb0d27f111ec4b2bdd42a26f48ba303":{"date":1636564421077,"value":"1636564420978otaa4THIko8MJty4xhs"}}; _ga=GA1.2.1082683123.1638021158; _gid=GA1.2.1985697396.1638021158; source=referral; campaign=www.binance.com; home-ui-ab=A; nft-init-compliance=true; userPreferredCurrency=USD_USD; fiat-prefer-currency=TRY; help-center-ui-ab=A; BNC_FV_KEY=31dfdd6ec952a445aeb70eee51c68456053e3e26; BNC_FV_KEY_EXPIRE=1638192216062; monitor-uuid=0969e0f6-1349-4550-b049-ad4311f80395; gtId=011c1f43-0efd-40a6-a2ac-bfdb1f12fe63; cr00=6AA1274EA5AAF8BAB55A1450BF65F562; d1og=web.45819680.5EEABC36E1494A0DB850E0E6C52C02C1; r2o1=web.45819680.4B6EC35819DAC5382AA218C93E135DC8; f30l=web.45819680.1B078948FD3C690F00D66328F4FEF35C; logined=y; lang=tr; p20t=web.45819680.5EE11F7970BF6760C03C6CC3BA05B023; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2245819680%22%2C%22first_id%22%3A%2217d61ab55141224-08d9c6d83d35c-1f396452-1296000-17d61ab551516be%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E8%87%AA%E7%84%B6%E6%90%9C%E7%B4%A2%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%2C%22%24latest_referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22%24device_id%22%3A%2217d61ab55141224-08d9c6d83d35c-1f396452-1296000-17d61ab551516be%22%7D; _gat=1; _gat_UA-162512367-1=1
+csrftoken: b0eaf285d3347e5027a435f29746ecb8
+device-info: eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMCwxNDQwIiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiNzg5LDE0NDAiLCJzeXN0ZW1fdmVyc2lvbiI6Ik1hYyBPUyAxMC4xNS43IiwiYnJhbmRfbW9kZWwiOiJ1bmtub3duIiwic3lzdGVtX2xhbmciOiJ0ci1UUiIsInRpbWV6b25lIjoiR01UKzEiLCJ0aW1lem9uZU9mZnNldCI6LTYwLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC41NSBTYWZhcmkvNTM3LjM2IiwibGlzdF9wbHVnaW4iOiJQREYgVmlld2VyLENocm9tZSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIsTWljcm9zb2Z0IEVkZ2UgUERGIFZpZXdlcixXZWJLaXQgYnVpbHQtaW4gUERGIiwiY2FudmFzX2NvZGUiOiI0NWQzOGFhMyIsIndlYmdsX3ZlbmRvciI6IkFwcGxlIiwid2ViZ2xfcmVuZGVyZXIiOiJBcHBsZSBNMSIsImF1ZGlvIjoiMTI0LjA0MzQ0OTY4NDc1MTk4IiwicGxhdGZvcm0iOiJNYWNJbnRlbCIsIndlYl90aW1lem9uZSI6IkV1cm9wZS9CdWRhcGVzdCIsImRldmljZV9uYW1lIjoiQ2hyb21lIFY5Ni4wLjQ2NjQuNTUgKE1hYyBPUykiLCJmaW5nZXJwcmludCI6ImEwMGYxNWVkYjlkZDI5Y2Q0ZmUyN2Y5NjQ1YWI5ZDU3IiwiZGV2aWNlX2lkIjoiIiwicmVsYXRlZF9kZXZpY2VfaWRzIjoiMTYzNjU2NDQyMDk3OG90YWE0VEhJa284TUp0eTR4aHMifQ==
+fvideo-id: 31dfdd6ec952a445aeb70eee51c68456053e3e26
+lang: en
+origin: https://www.binance.com
+referer: https://www.binance.com/en/nft/goods/detail?productId=13886834&isProduct=1
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+x-trace-id: 9ebf5aad-84f9-4a04-9d2d-0e1205701908
+x-ui-request-trace: 9ebf5aad-84f9-4a04-9d2d-0e1205701908
+
+
+
+
+#place a bid buying
+
+# print("body", request.body)
+# print("cert", request.cert)
+# print("date", request.date)
+# print("headers", request.headers)
+# print("host", request.host)
+# print("method", request.method)
+# print("params", request.params)
+# print("path", request.path)
+# print("querystring", request.querystring)
+# print("url", request.url)
+
+
+body b'{"amount":"0.321","productId":13865740,"tradeType":1,"userId":45819680}'
+cert {'subject': [(b'C', b'KY'), (b'L', b'George Town'), (b'O', b'Binance Holdings Limited'), (b'OU', b'IT'), (b'CN', b'*.binance.com')], 'serial': 13940891508171319453018180729538230984, 'key': ('RSA', 2048), 'signature_algorithm': b'sha256WithRSAEncryption', 'expired': False, 'issuer': [(b'C', b'US'), (b'O', b'DigiCert Inc'), (b'OU', b'www.digicert.com'), (b'CN', b'GeoTrust RSA CA 2018')], 'notbefore': datetime.datetime(2020, 1, 7, 0, 0), 'notafter': datetime.datetime(2022, 4, 7, 12, 0), 'organization': b'Binance Holdings Limited', 'cn': b'*.binance.com', 'altnames': [b'*.binance.com', b'binance.com']}
+date 2021-11-28 18:10:24.758245
+headers content-length: 71
+x-trace-id: 07c51d45-31ca-4dc5-a45c-00a0f21c336f
+csrftoken: 90f1ab3674d684738f5b8a9cbd5a9cf0
+x-ui-request-trace: 07c51d45-31ca-4dc5-a45c-00a0f21c336f
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+bnc-uuid: cc67bd14-c5e2-4c5b-a37e-295188c2c537
+content-type: application/json
+lang: en
+fvideo-id: 320c97d7c0baa799acc8489a327b342c7e36555a
+sec-ch-ua-mobile: ?0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+x-nft-checkbot-token: 03AGdBq25tkdYcjJmrZuJevWkMF4cvq2c-QBiH5Z9ljDKh3xAcnIOpovg2J9VGuVXJ0cR_oNOxyNJZEdgwC6rvzK4TTroUgeZEHL_Gw35CeqVU0kPQrv1NtZiw_p79Z2iSTcg7RoexAgSR26otf3ZwRZEhIi-dU096Y4hTSP2ojZGV2yIx650Wxm72lJbXFhIyfDVvtPmYRcaG6fgI2lvupT_xWpRL-EEJ1NymonZtufgRsY0vfDU43cARlq8pcUBzXKv3-evbS14uRFtAKcgye75mCh642cSaIItU8SGlxZVIvzqYP_D7A5hQR3fCLU4gNBAikCtCihJmslRsPYSRWVifpgnX8v60QZE0jJto7S7zDGROCJVyL6k3XLF_EATfmmoxzebsYrS9dQQdZeb9Bu8ocKsi9R5BkK7w5N_ob2Ugo5Wkcrji8VXBq54Y_WJYW2ZfL6OG7pQlKtExnR8T5vRXhUBLuYU7STuBr4V7AaOKGSSuHhh-Fz6UTQvgQOWp1xkdkfUVAOnGNr7JZ0nyW4gmveBAvy0SOjdluN0TPaWbWmu9_APkaer415uJaeWEOXSImHYvS0Sj3hpA4eofqUrDwoPNHLVVClInt5i29mYZKMr-E7Hms-mN6Lk8UvrthBf57LRkevGvt3uw6CRNrOVKa19VAgK-9-JxkaFN6CXS7wxDRfDgeHlJ9UMJmo2r7aSCQVjMyY3RWeEe3SHuyJCUv3zZ6eZv9qATGb_LNYMDsLtMLs8PWpj9Y5dZ7T0QQ-TxO-FNudHoW1jQ9JfzG0zPdpwt0kv8CpxM9X7Us6WqxfxQK6I8b2azF_CSHe7Sm19k8GG51yfa3kS3Vx3MEt6ZgC5nPieuxTWnbfRN1RormQc26eMg_Or9hJpLzves80MmqR8ARUAYTdnu8H02YeLRNXrpofNchiFTsUBoNL5e2EyLC-x9ffbTH_Y0hubf3f2GLtnFiAOU5O8IGC8IhIQZk-jTKuPpkcUOzUe0zKYCwl9bRH9zcOTQMkZmvr-kvjWjm0gtb6C9ZgJJjSZDlpS6JGS7nWB0EE6HRi6s21MmI9XJwNvoQiJvykG46b-G094xp2gi-2ZBh5IaaVP0LMnFveBbhLPOhaCsZU3bV7-5wIALqgZ0z0Bt3TipuwYPS-y725w1dWHcGiZWnaU9qPzLAXgGTbbIJ7lYouxFdQxTtpzUhWLjJlz0vYA6My2l44saB6lSoD-9OcWMiWHeLprdqiO_m0JHqifBOceFADpDBlHwNC_zqayAhMZIDuAX02FDgx6qX-b__e-5Ys5wVw-cAAi61vWeCH6ukVUydrTo1Bak4gwX7LCYWnVh3vwet5ThnElZUiyle9V_inLUzlzCkJA9p0_1FdcSdoxhuilENxPp97JbvpRZh7tM1DbQfduaIF85LIkAuSw-D1-zqxnzS_CGgjPwAKSYF7_Ua62AKjIryN1A7YlWVDaCzg6Y44CDqyFGRp-GYcMck3CQtqTf9ZkuAevzeMF0CfiYumQQW7ku0MFiIZ3cb4NgUVqpf20oWEuwK8-0X4MGCvHp4Bsgo4_EL5QLNzzOhFOE6R9yX5bIqAOarBA
+device-info: eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMCwxNDQwIiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiNzg5LDE0NDAiLCJzeXN0ZW1fdmVyc2lvbiI6Ik1hYyBPUyAxMC4xNS43IiwiYnJhbmRfbW9kZWwiOiJ1bmtub3duIiwic3lzdGVtX2xhbmciOiJlbi1VUyIsInRpbWV6b25lIjoiR01UKzEiLCJ0aW1lem9uZU9mZnNldCI6LTYwLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC41NSBTYWZhcmkvNTM3LjM2IiwibGlzdF9wbHVnaW4iOiJQREYgVmlld2VyLENocm9tZSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIsTWljcm9zb2Z0IEVkZ2UgUERGIFZpZXdlcixXZWJLaXQgYnVpbHQtaW4gUERGIiwiY2FudmFzX2NvZGUiOiI0NWQzOGFhMyIsIndlYmdsX3ZlbmRvciI6IkFwcGxlIiwid2ViZ2xfcmVuZGVyZXIiOiJBcHBsZSBNMSIsImF1ZGlvIjoiMTI0LjA0MzQ0OTY4NDc1MTk4IiwicGxhdGZvcm0iOiJNYWNJbnRlbCIsIndlYl90aW1lem9uZSI6IkV1cm9wZS9CdWRhcGVzdCIsImRldmljZV9uYW1lIjoiQ2hyb21lIFY5Ni4wLjQ2NjQuNTUgKE1hYyBPUykiLCJmaW5nZXJwcmludCI6Ijc1OWEzYzY5OTVhZjI3NmVjYmZkYzU0MWJlYjNlNjdmIiwiZGV2aWNlX2lkIjoiIiwicmVsYXRlZF9kZXZpY2VfaWRzIjoiIn0=
+x-nft-checkbot-sitekey: 6LeUPckbAAAAAIX0YxfqgiXvD3EOXSeuq0OpO8u_
+clienttype: web
+sec-ch-ua-platform: "macOS"
+accept: */*
+origin: https://www.binance.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.binance.com/en/nft/goods/detail?productId=13865740&isOpen=true&isProduct=1
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: cid=vKDiyakl; bnc-uuid=cc67bd14-c5e2-4c5b-a37e-295188c2c537; sajssdk_2015_cross_new_user=1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2217d678344166ff-067623d06225db-1f396452-1296000-17d67834417164f%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22%24device_id%22%3A%2217d678344166ff-067623d06225db-1f396452-1296000-17d67834417164f%22%7D; userPreferredCurrency=USD_USD; _ga=GA1.2.1486916222.1638119196; _gid=GA1.2.877684337.1638119196; BNC_FV_KEY=320c97d7c0baa799acc8489a327b342c7e36555a; BNC_FV_KEY_EXPIRE=1638205595916; nft-init-compliance=true; source=referral; campaign=www.binance.com; gtId=7533dceb-ae90-47c9-8f58-49d5532c67a3; cr00=DA8F827336866D6FE959270AB3782AC8; d1og=web.45819680.F02C58810E7338107AF8BFEAE0A6BDDC; r2o1=web.45819680.2429187CE4A621D477DFC15D57DBE87A; f30l=web.45819680.42A2CDC3888E02C15ACED322DEDF2613; logined=y; lang=tr; p20t=web.45819680.47BFCD8925991B2BB864C30F6B3E17C6; _gat=1; _gat_UA-162512367-1=1
+
+
+host www.binance.com
+method POST
+params {}
+path /bapi/nft/v1/private/nft/nft-trade/order-create
+querystring
+url https://www.binance.com/bapi/nft/v1/private/nft/nft-trade/order-create
+
+
+#fixed price buying
+
+body b'{"amount":"3.6","productId":13864538,"tradeType":0}'
+cert {'subject': [(b'C', b'KY'), (b'L', b'George Town'), (b'O', b'Binance Holdings Limited'), (b'OU', b'IT'), (b'CN', b'*.binance.com')], 'serial': 13940891508171319453018180729538230984, 'key': ('RSA', 2048), 'signature_algorithm': b'sha256WithRSAEncryption', 'expired': False, 'issuer': [(b'C', b'US'), (b'O', b'DigiCert Inc'), (b'OU', b'www.digicert.com'), (b'CN', b'GeoTrust RSA CA 2018')], 'notbefore': datetime.datetime(2020, 1, 7, 0, 0), 'notafter': datetime.datetime(2022, 4, 7, 12, 0), 'organization': b'Binance Holdings Limited', 'cn': b'*.binance.com', 'altnames': [b'*.binance.com', b'binance.com']}
+date 2021-11-28 19:11:53.020720
+headers content-length: 51
+x-trace-id: 7cacde53-076d-41a8-9efe-35fbc2259e28
+csrftoken: 43c431bfee5d3c41a1c192760c24aaa7
+x-ui-request-trace: 7cacde53-076d-41a8-9efe-35fbc2259e28
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+bnc-uuid: 1f91aae6-47a6-4658-aea2-b039312865da
+content-type: application/json
+lang: en
+fvideo-id: 323b9619638fadaeadab83ac258c8117252c4ab6
+sec-ch-ua-mobile: ?0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+x-nft-checkbot-token: 03AGdBq27uZWqPG0bIJzHfaBmuQRoylDJT4Wiw0KDeKm-40oPfE_5c-6L7TBSGnM3Wb0FS1w8P96c3pyUqC-F6KPS7qF5hbUOYRVtIxnBoaeNvUbZkltnfYRPvr0SrcmkaewGauylPL6tcVc6Zh3qwk9sfhfpFIFZeV9St4Oogj3PprSAQ8Cqf0eHRI28Lqa5dPdzkxd4yVcoRGcoTtjU7xU1WYUeaci0EmKgNQ3BvSG_kalqAvYqunsYDRGcnLrf0TC_0Pn4SzVgis_oO3kIx1XgWOgnpJzY9twGklOT5VIa7PBobaIQtv0li8srUmkgni4XefJWOXoGg-oYSX8cYTYAJ2kD5iYcWFhNEiwjlI41NH1MwLqemF9XHbSxnekF-aql1mKxLp38EW9epFZsEI-Osj9idp5pJKaPcBVoHN5g8CrtJ59P4E7xjgWivNJoC_bgmqywSrohHGC8BEq5iBTm_3CI5BYM84QauNl2vxlNLezRnA1PQpWQU-nzgXYwvsRrnVMVYPMqzm8b4KZrIxgmf-ozdMnqeTlc48OdrogPtbW_VE63yAxIqfYv7FpUoCxq6Y26mHxjAb2vsr8ppFWvMy-UctmQqP1d1tddWURpEOV_iL4hgOOiqeANNKSjWe06d-V5IeJcfOeuIVaXdO8Lm1pb9iASQulvlpnw07ZJqgqHUs9QqgqdnI-RO4W9wfvQbYaLfqhhFPHOkgI7ssIIauNmjsNcBKO4p7tIqtPrM64QbIPecRFOgiif-ES9rjKhfBFZBJ9sHclZW3pFfit9uR38DhRI6_YCfELRapVPA6RKjn5FzXkveHi9JjO6IDhqFL5GG_VTYIuKvo7XEsYzd7AZw5cBgt49_rA53pvVrsOq77A34qsFxQEgwPl6vRGckhsJMBrpDgraZLshyctl1GCAQAmWMDgOPeRg-wURmM54nGZZUYp47-CiGHMzR2FK38u1_NdgKAW_iZSgmwoH-x6VRO3dgXfK5qjlYQAhNwBHO6o8fX08QDizRKa9kALfxAOM-ks_bE5z94qlBjzNxeyLwkCRF9ISRh0Lct8hhMcbzflP6Ux1sjmzMwTtaYtn6jSbtimORxqc3aG29l7AiiM0pZwyxWFqeeaymHHO-ztZ6Rn0uv9hJag3dWuXtIKo9cyPV61wUeFkPsP6SC7Bbc1nTL1Mkee-GzrZXKtIN2Eq2kZEVSYzDS0f-GFXMEr9ZMDakZenUgniXK6FrMGiWMCXcLIJIavmNoYjcnu4obME1fxJ3NFXozIVxYE_ob8hlvuU-NgnU99NZs05HgBVM2USNWO8IZZwnQzj8hjwDcrq2zsLsP2_bFIXjsahsrkOe5GXCvCnxoeBTx8zTiJkGaJBGk-kD0IyQWX7iXEU4BUO76Gbychryovov_dfaV_7xrfxfSyCw8wFu6-PuCIB9-UYAZXtAbXNBI9hBXkY0ln_h7VjizPHD2iKZepdT6FfOwFk0dDrB-9Refuhz-ItTf9IYbsEZTk_Eb-fy_LetzAGI4i87-wa13oJPniz0OVC3fqyXJyH4n2uCAzEGTCGs6rzPMmKLUt7YR0LaryC-SGgjXsZETMI
+device-info: eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMCwxNDQwIiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiNzg5LDE0NDAiLCJzeXN0ZW1fdmVyc2lvbiI6Ik1hYyBPUyAxMC4xNS43IiwiYnJhbmRfbW9kZWwiOiJ1bmtub3duIiwic3lzdGVtX2xhbmciOiJlbi1VUyIsInRpbWV6b25lIjoiR01UKzEiLCJ0aW1lem9uZU9mZnNldCI6LTYwLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC41NSBTYWZhcmkvNTM3LjM2IiwibGlzdF9wbHVnaW4iOiJQREYgVmlld2VyLENocm9tZSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIsTWljcm9zb2Z0IEVkZ2UgUERGIFZpZXdlcixXZWJLaXQgYnVpbHQtaW4gUERGIiwiY2FudmFzX2NvZGUiOiI0NWQzOGFhMyIsIndlYmdsX3ZlbmRvciI6IkFwcGxlIiwid2ViZ2xfcmVuZGVyZXIiOiJBcHBsZSBNMSIsImF1ZGlvIjoiMTI0LjA0MzQ0OTY4NDc1MTk4IiwicGxhdGZvcm0iOiJNYWNJbnRlbCIsIndlYl90aW1lem9uZSI6IkV1cm9wZS9CdWRhcGVzdCIsImRldmljZV9uYW1lIjoiQ2hyb21lIFY5Ni4wLjQ2NjQuNTUgKE1hYyBPUykiLCJmaW5nZXJwcmludCI6Ijc1OWEzYzY5OTVhZjI3NmVjYmZkYzU0MWJlYjNlNjdmIiwiZGV2aWNlX2lkIjoiIiwicmVsYXRlZF9kZXZpY2VfaWRzIjoiIn0=
+x-nft-checkbot-sitekey: 6LeUPckbAAAAAIX0YxfqgiXvD3EOXSeuq0OpO8u_
+clienttype: web
+sec-ch-ua-platform: "macOS"
+accept: */*
+origin: https://www.binance.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.binance.com/en/nft/goods/detail?productId=13864538&isProduct=1
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: cid=MoCcLdjX; bnc-uuid=1f91aae6-47a6-4658-aea2-b039312865da; sajssdk_2015_cross_new_user=1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2217d67be56fc786-0e31107ddc580c-1f396452-1296000-17d67be56fd15b0%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22%24device_id%22%3A%2217d67be56fc786-0e31107ddc580c-1f396452-1296000-17d67be56fd15b0%22%7D; userPreferredCurrency=USD_USD; _ga=GA1.2.154355373.1638123067; _gid=GA1.2.880145621.1638123067; _gat=1; _gat_UA-162512367-1=1; BNC_FV_KEY=323b9619638fadaeadab83ac258c8117252c4ab6; BNC_FV_KEY_EXPIRE=1638209467372; nft-init-compliance=true; source=referral; campaign=www.binance.com; gtId=608967cc-6b76-4dcd-ba67-3282966deff3; cr00=8DBEA3F544A6690F5746D21739954A24; d1og=web.45819680.FE5887B4DBB56A08097B4626BE7EDB20; r2o1=web.45819680.38B9252914F070B20A798669D3844C48; f30l=web.45819680.E39E0FCFB0CBEEB58055C7AA493F5344; logined=y; lang=tr; p20t=web.45819680.BF0FC9C1F48AD49013CB78120D1E784D
+
+
+host www.binance.com
+method POST
+params {}
+path /bapi/nft/v1/private/nft/nft-trade/order-create
+querystring
+url https://www.binance.com/bapi/nft/v1/private/nft/nft-trade/order-create
