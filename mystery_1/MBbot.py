@@ -209,6 +209,7 @@ for i in range(len(results)):
         print("****************")
         print('***SUCCESS****', 'status:', status[i], 'result:', results[i])
         print("****************")
+        break
     if len(results[i])>250:
         print('status:', status[i], 'blocked')
         counter_block += 1

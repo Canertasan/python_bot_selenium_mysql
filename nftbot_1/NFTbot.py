@@ -9,7 +9,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from seleniumwire import webdriver
 import asyncio
 import aiohttp
-from MBbotConfig import *
+from NFTbotConfig import *
 import pickle
 import os
 import mysql.connector
@@ -197,18 +197,18 @@ while True:
 counter_block = 0
 rqStop = time.time()
 for i in range(len(results)):
-    if '"success":true' in results[i]:
-        mydb = db_connect()
-        mycursor = mydb.cursor()
-        sql = "INSERT INTO products (binance_product_id, user_id, quantity, response) VALUES ({}, {}, {}, {})".format(js["productId"], USER_ID, js["number"], "'" + results[i] + "'")
-        print(sql)
-        mycursor.execute(sql)
-        mydb.commit()
-        mycursor.close()
-        mydb.close()
-        print("****************")
-        print('***SUCCESS****', 'status:', status[i], 'result:', results[i])
-        print("****************")
+    # if '"success":true' in results[i]:
+    #     mydb = db_connect()
+    #     mycursor = mydb.cursor()
+    #     sql = "INSERT INTO products (binance_product_id, user_id, quantity, response) VALUES ({}, {}, {}, {})".format(js["productId"], USER_ID, js["number"], "'" + results[i] + "'")
+    #     print(sql)
+    #     mycursor.execute(sql)
+    #     mydb.commit()
+    #     mycursor.close()
+    #     mydb.close()
+    #     print("****************")
+    #     print('***SUCCESS****', 'status:', status[i], 'result:', results[i])
+    #     print("****************")
     if len(results[i])>250:
         print('status:', status[i], 'blocked')
         counter_block += 1
