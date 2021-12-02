@@ -11,7 +11,6 @@ import asyncio
 import aiohttp
 from MBbotConfig import *
 import pickle
-import os
 import mysql.connector
 
 print("Bot starting...")
